@@ -1,0 +1,37 @@
+App Development for High Performance Computing Facility
+=================
+
+As part of my two year degree in Informatics: Technical and Scientific Applications, this paper provides a brief introduction to app development for mobile devices based on research. Primarily in the form of self study and development of simple apps.
+
+# Contents
+
+1 Introduction
+2 Mobile Phone Apps
+2.1 Modern Mobile Platforms
+2.2 Cross-Platform Development
+2.3 App Design Considerations
+2.4 Android App Development
+2.5 Android App Deployment and Debugging
+3 Qt
+3.1 Qt Setup
+3.2 Qt Creator
+3.3 Qt Library
+3.4 Qt Widgets
+3.5 Qt Quick
+4 Qt Galaxy Portal
+5 Kivy
+5.1 Kivy Setup
+5.2 Kivy and Python
+5.3 Kivy Architecture
+5.4 Kivy Development
+5.5 Kivy Android Development
+6 Kivy Galaxy Portal
+7 PhoneGap
+7.1 Cordova and HTML5, CSS3 and JavaScript
+7.2 Cordova Setup
+7.3 Cordova Development
+7.4 PhoneGap Build
+8 Cordova Galaxy Portal
+9 Final Word
+References
+
